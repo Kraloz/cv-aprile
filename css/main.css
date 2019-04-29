@@ -109,9 +109,13 @@ body{
 #panel-info {
   background: #00242B;
   color: #66A1BB;
+  
 }
 #panel-info p {
   color: #E6E6E6;
+}
+#panel-info ul{
+  list-style-type: none;
 }
 #panel-info .img-thumbnail {
   padding: 0px ;
